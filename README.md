@@ -1,6 +1,5 @@
-### Hi there 👋
-
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Areefeen Hayeeyapa!](https://www.linkedin.com/in/areefeen-hayeeyapa/) 
+!
 
 <!--
 **pingplass123/pingplass123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
