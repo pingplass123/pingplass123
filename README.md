@@ -15,6 +15,7 @@
 ### About Me 🚀
 🌱 I’m a Full stack developer and Mobile developer </br>
 👨‍💻  I am passionate about Web Dev,Mobile Dev & I enjoy learning new things. </br>
+I'm front end developer at appman 
 
 
 <!--
